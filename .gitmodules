@@ -1,3 +1,6 @@
 [submodule "key-pair-treeViewer"]
 	path = key-pair-treeViewer
 	url = https://github.com/maychang7331/key-pair-treeViewer
+[submodule "random-user"]
+	path = random-user
+	url = https://github.com/maychang7331/random-user
